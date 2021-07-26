@@ -14,8 +14,7 @@
 
       2. first_open: Date (yy-mm-dd) and time (Hour:Minute:Seconds:Milliseconds) of login on app first time.
       
-      3. dayofweek: On which day user logon.
-                   0: Sunday  to 6: Saturday
+      3. dayofweek: On which day user logon. (0: Sunday  to 6: Saturday)
       4. Hour: Time of a day in 24-hour format customer logon. It is correlated with dayofweek column.
       
       5. age: The age of the registered user.
