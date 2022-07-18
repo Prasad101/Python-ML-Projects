@@ -32,3 +32,4 @@
       11. enrolled_date: On the date (yy-mm-dd) and time (Hour:Minute:Seconds:Milliseconds) the user bought a premium features app.
 
       12. liked: The each screen of the app has a like button if the customer likes it then 1 otherwise 0.
+      
